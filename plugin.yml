@@ -1,0 +1,10 @@
+name: Arcania
+main: me.billybobjoe1223.Arcania.Arcania
+version: 0.0.1
+commands:
+    spells:
+       description: Lists available spells and their mana cost.
+       usage: /spells
+    arcania:
+       description: contains admin commands
+       usage: /arcania reload; Reloads config files.
